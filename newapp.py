@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 # -----------------------------
 st.set_page_config(
     page_title="GreenRoute 🌍",
-    page_icon="🌱",
+    page_icon="https://raw.githubusercontent.com/ishanikashyap104/greenroute-app/main/icon.png",
     layout="wide"
 )
 
@@ -335,4 +335,5 @@ Below are **illustrative mini-datasets** to help visualize three key trends:
 - Protect and restore **forests and wetlands** (carbon sinks).
 - Encourage **low-carbon transport** — exactly what this app nudges users to do.
     """)
+
 
